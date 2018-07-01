@@ -2,6 +2,16 @@
 <AutoSplitters>
   <AutoSplitter>
     <Games>
+      <Game>Need for Speed: High Stakes (PC)</Game>
+    </Games>
+      <URLs>
+        <URL>https://github.com/Ephexx72/AutoSplitters/raw/master/nfshs.asl</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Load time remover for Career/Tournament/Knockout (By Ephexx)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
       <Game>Touhou Kaeitzuka ~ Phantasmagoria of Flower View</Game>
     </Games>
     <URLs>
